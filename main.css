@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgb(0, 0, 0);
+} */
+header{
+    background-color: #4f2d79;
+    font-size: 48px;
+    color: aliceblue;
+}
+header button{
+    background-color: #cecece;
+}
+/* #4f2d79 */
+footer{
+    background-color: #4f2d79;
+    color: aliceblue;
+    font-size: 24px;
+}
+a{ text-decoration:none} a:hover{ text-decoration:none}
+a,a:focus{
+    outline:none;
+}
+a{
+    color: aliceblue;
+}
+table{
+    font-size: 24px;
+    background-color: #cecece;
+}
