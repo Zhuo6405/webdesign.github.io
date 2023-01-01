@@ -26,3 +26,15 @@ table{
     font-size: 24px;
     background-color: #cecece;
 }
+#gotop {
+    position: fixed;
+    border-radius: 50px;
+    right: 20px;
+    bottom: 30px;
+    padding: 10px 16px;
+    font-size: 25px;
+    background: rgba(132, 126, 126, 0.36);
+    color: #FAFCFD;
+    cursor: pointer;
+    z-index: 1000;
+}
